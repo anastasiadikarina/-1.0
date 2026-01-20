@@ -10,7 +10,7 @@ void main()
     float h; // высота
     printf("Введите высоту в метрах: ");
     scanf_s("%f", &h);
-    return 2;
+    printf("iiii")
 
     float g = 9.8; // ускорение свободного падения
     float t = sqrt(2 * h / g); // вычисление времени по высоте
